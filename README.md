@@ -8,7 +8,8 @@ It is possible to choose font that fits you, difficulty level and specify size u
 ![image](https://github.com/jtomaszewski03/MonkeyTyper/assets/163217755/8b3d5f35-f267-4ac4-92b3-b44d07d26e33)
 
 
-![image](https://github.com/jtomaszewski03/MonkeyTyper/assets/163217755/1fac2bb6-fa7c-48fd-939b-2e8c08e78943)
+![image](https://github.com/jtomaszewski03/MonkeyTyper/assets/163217755/9071bd36-44b8-4bb6-bd6c-aa0dbae55849)
+
 
 ![image](https://github.com/jtomaszewski03/MonkeyTyper/assets/163217755/c09b9cf6-0aa6-4f8d-a121-28fd8d7b5d8a)
 
