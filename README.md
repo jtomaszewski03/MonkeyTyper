@@ -1,6 +1,5 @@
 # MonkeyTyper
 Simple typing game based on standard C++ libraries and SFML.            
-It contains some features, like difficulty level, game saving or customizable font (and its size) using keyboard shortcuts.
 
 ![image](https://github.com/jtomaszewski03/MonkeyTyper/assets/163217755/8b3d5f35-f267-4ac4-92b3-b44d07d26e33)
 
